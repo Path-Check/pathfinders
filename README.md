@@ -1,6 +1,6 @@
 ## Pathfinders - An exciting opportunity to write research essays about the complexities of vaccination distribution during the coronavirus pandemic.
 
-This repository holds the essays from [Pathfinders Event](https://pathfinders.mit.edu) at the [Conference on "Vaccines for All" at MIT](https://vaccine.mit.edu).
+This repository holds the essays from the [Pathfinders Event](https://pathfinders.mit.edu) at the [Conference on "Vaccines for All" at MIT](https://vaccine.mit.edu).
 
 - [B-ID : Proof of Health and Immunisation Consensus Protocol](bridgewater.pdf)
 - [Vax India Tech: Provident Vaccine Distribution Strategy for India](duraphe.pdf)
