@@ -1,4 +1,4 @@
-Pathfinders - An exciting opportunity to write research essays about the complexities of vaccination distribution during the coronavirus pandemic.
+## Pathfinders - An exciting opportunity to write research essays about the complexities of vaccination distribution during the coronavirus pandemic.
 
 This repository holds the essays from [Pathfinders Event](https://pathfinders.mit.edu) at the [Conference on "Vaccines for All" at MIT](https://vaccine.mit.edu).
 
@@ -11,4 +11,4 @@ This repository holds the essays from [Pathfinders Event](https://pathfinders.mi
 - [Evaluating the mRNA and Inactivated Virus Vaccine and Delivery](sikri.pdf)
 - [A Dynamic Prioritization Approach: Breaking the Transmission Chain for Optimal Utilization of Covid-19 Vaccines](thomas.pdf)
 
-
+Want to submit an essay? Go to [https://pathfinders.mit.edu](https://pathfinders.mit.edu) for submission instructions.
